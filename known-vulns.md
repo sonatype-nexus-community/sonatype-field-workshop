@@ -2,7 +2,7 @@
 
 ### Get the demo application
 - Fork/Cloone the example GitHub project
-  - https://github.com/sonatype-nexus-community/struts2-rce
+  - https://github.com/sonatype-nexus-community/sonatype-field-workshop/tree/main/struts2-rce-workshop
 
 ### Build and run the Docker image
 - `./mvnw clean package` in project root
