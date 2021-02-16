@@ -1,7 +1,7 @@
 ## Attack #3 - Known Vulnerabilities
 
 ### Get the demo application
-- Fork/Cloone the example GitHub project
+- Fork/Clone the example GitHub project
   - https://github.com/sonatype-nexus-community/sonatype-field-workshop/tree/main/struts2-rce-workshop
 
 ### Build and run the Docker image
