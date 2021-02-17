@@ -1,13 +1,21 @@
 # Nexus Repository Manager
 
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
+
 Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
+
+Docker Installation:
+`Site: https://docs.docker.com/desktop/
+
+`
 
 
 ### Installation Gotchyas
 Common problems and helpful tips
 
+
 - If following the maven quickstart guide, delete the maven proxy and build manually.
+
 
 
 - If port 8081 already in use:
@@ -18,9 +26,11 @@ Common problems and helpful tips
   - uncomment application port, specify the one you want to use, and save.
 
 
+
 - Finding the .m2 directory:
   - Mac: `cd ~/.m2`
   - PC: `mvn -version`
+
 
 
 
