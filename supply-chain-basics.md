@@ -1,4 +1,4 @@
-## Supply Chain Basics
+## Software Supply Chain
 
 [![vxcd](https://imgs.xkcd.com/comics/slides.png)]
 
