@@ -1,6 +1,7 @@
 # Nexus Repository Manager
 
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
+Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
 
 ### Installation Gotchyas
 Common problems and helpful tips
