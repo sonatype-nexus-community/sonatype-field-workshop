@@ -17,7 +17,7 @@ ARG IQ_STAGE
 
 # Sonatype Nexus Ahab Evaluation
 COPY --from=ahab /tmp/ahab /tmp/
-RUN dpkg-query --show --showformat='${Package} ${Version}\n' | /tmp/ahab chase
+# RUN dpkg-query --show --showformat='${Package} ${Version}\n' | /tmp/ahab chase
 
 RUN set -ex \
 	&& rm -rf /usr/local/tomcat/webapps/* \
