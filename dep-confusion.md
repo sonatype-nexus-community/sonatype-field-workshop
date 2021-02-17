@@ -1,6 +1,9 @@
 ## Attack #1 - Namespace Confusion 
 (Dependency Confusiuon)
 
+# Exercises
+- [Routing Rules](https://help.sonatype.com/repomanager3/repository-management/routing-rules)
+
 # Sonatype Materials:
 - Brian Fox on what this means: https://blog.sonatype.com/why-namespacing-matters-in-public-open-source-repositories
 - Using NXRM Routing rules to minimise risk: https://blog.sonatype.com/namespace-confusion-minimizing-risk-with-nexus-repository
