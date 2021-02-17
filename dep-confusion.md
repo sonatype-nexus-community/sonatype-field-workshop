@@ -19,7 +19,7 @@
 
 ## Setup Gotchyas:
 - Make Routing rule: `^/cupitt-aviation-weather/.*$`
-- npm config set registry `http://localhost:8081/repository/npm-group` before installing cupitt-aviation-weather
+- `npm config set registry http://localhost:8081/repository/npm-group` before installing cupitt-aviation-weather
 - npm install cupitt-aviation-weather
 
 
