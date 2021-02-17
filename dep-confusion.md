@@ -1,7 +1,7 @@
 # Attack #1 - Namespace Confusion 
 (Dependency Confusiuon)
 
-<img src="https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/images/dep_confusion.png" width="500">
+<img src="https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/images/dep_confusion.png" width="600">
 
 ## Exercises
 - Configure our Repo to demonstrate the attack
