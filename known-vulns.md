@@ -25,6 +25,9 @@
 - [Sonatype OSS Index](https://ossindex.sonatype.org/)
 - [OSS Integrations](https://ossindex.sonatype.org/integrations)
 
+### First Evaluation
+- [mvn org.sonatype.ossindex.maven:ossindex-maven-plugin:audit-aggregate -f pom.xml](https://sonatype.github.io/ossindex-maven/maven-plugin/ )
+
 ### Sonatype Open Source Developer Tools
 - [Visual Studio Code Extension](https://ossindex.sonatype.org/integration/vscode)
 - [AHAB](https://ossindex.sonatype.org/integration/ahab)
