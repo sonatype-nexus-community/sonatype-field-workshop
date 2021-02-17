@@ -3,6 +3,7 @@
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
 Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
 
+
 ### Installation Gotchyas
 Common problems and helpful tips
 
@@ -11,7 +12,7 @@ Common problems and helpful tips
 
 - If port 8081 already in use:
   - Start nexus `./bin/nexus run`
-  - ![Repo Port Error](repo_port.png)
+![Repo Port Error](repo_port.png)
   - cd `sonatype-work/nexus3/etc`
   - edit `nexus.properties`
   - uncomment application port, specify the one you want to use, and save.
