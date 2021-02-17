@@ -15,6 +15,15 @@
   
 - [Routing Rules](https://help.sonatype.com/repomanager3/repository-management/routing-rules)
 
+
+
+## Setup Gotchyas:
+- Make Routing rule: `^/cupitt-aviation-weather/.*$`
+- npm config set registry `http://localhost:8081/repository/npm-group` before installing cupitt-aviation-weather
+- npm install cupitt-aviation-weather
+
+
+
 ## Sonatype Materials:
 - Brian Fox on what this means: https://blog.sonatype.com/why-namespacing-matters-in-public-open-source-repositories
 - Using NXRM Routing rules to minimise risk: https://blog.sonatype.com/namespace-confusion-minimizing-risk-with-nexus-repository
