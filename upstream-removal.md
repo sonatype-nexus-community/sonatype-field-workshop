@@ -7,5 +7,6 @@ This week JFrog - out of nowhere - announced to completely remove their Maven re
 (https://blog.sonatype.com/the-central-repository-stands-to-support-sailors-from-bintray-how-to-migrate)
 
 ## 1. Set up a proxy repository to cache your components
+- https://jcenter.bintray.com/
 ## 2. Test Availability & Raise Migration tickets
 ## 3. Finalise migration
