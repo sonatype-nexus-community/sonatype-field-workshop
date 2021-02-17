@@ -5,6 +5,7 @@
   - https://github.com/sonatype-nexus-community/sonatype-field-workshop/tree/main/struts2-rce-workshop
 
 ### Build and run the Docker image
+- cd to `struts2-rce-workshop`
 - `./mvnw clean package` in project root
 - `docker build -t hackme .`
 - `docker run -d -p 9080:8080 hackme`
