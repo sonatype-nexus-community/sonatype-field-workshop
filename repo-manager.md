@@ -11,12 +11,13 @@ Common problems and helpful tips
 
 - If port 8081 already in use:
   - Start nexus `./bin/nexus run`
+  - ![Repo Port Error](repo_port.png)
   - cd `sonatype-work/nexus3/etc`
   - edit `nexus.properties`
   - uncomment application port, specify the one you want to use, and save.
 
 
-- Finding the .m2 directory
+- Finding the .m2 directory:
   - Mac: `cd ~/.m2`
   - PC: `mvn -version`
 
