@@ -5,9 +5,16 @@ Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-mave
 Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
 
 Docker Installation:
-`Site: https://docs.docker.com/desktop/
 
-`
+```
+Install: https://docs.docker.com/desktop/
+
+Nexus Integration: https://hub.docker.com/r/sonatype/nexus3
+
+$ docker volume create --name nexus-data
+
+$ docker run -d -p 8081:8081 --name nexus -v nexus-data:/nexus-data sonatype/nexus3
+```
 
 
 ### Installation Gotchyas
