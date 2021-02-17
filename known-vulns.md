@@ -6,7 +6,7 @@
 
 ### Build and run the Docker image
 - cd into the `struts2-rce-workshop` directory
-- `./mvnw clean package` in project root
+- `mvn clean package` in project root
 - `docker build -t hackme .`
 - `docker run -d -p 9080:8080 hackme`
   - If 9080 is already used on your local machine, pick another port
