@@ -2,7 +2,7 @@
 
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
 
-Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
+Configure NPM group and client - https://help.sonatype.com/repomanager3/formats/npm-registry
 
 Docker Installation (Optional):
 
