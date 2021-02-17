@@ -2,6 +2,7 @@
 (Dependency Confusiuon)
 
 ## Exercises
+- Configure our Repo to demonstrate the attack
 - [Routing Rules](https://help.sonatype.com/repomanager3/repository-management/routing-rules)
 
 ## Sonatype Materials:
