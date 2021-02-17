@@ -5,6 +5,7 @@
   - https://github.com/sonatype-nexus-community/sonatype-field-workshop/tree/main/struts2-rce-workshop
 
 ### Build and run the Docker image
+- cd into the `struts2-rce-workshop` directory
 - `./mvnw clean package` in project root
 - `docker build -t hackme .`
 - `docker run -d -p 9080:8080 hackme`
@@ -12,6 +13,12 @@
 - Once container comes online - verify by running in browser http://localhost:9080
 - Run the exploit
   - `python2 exploit.py http://localhost:9080/orders/3 "whoami"`
+   - `pwd` - where are we?
+   - `whomai` - what user are we running this?
+   - `ls -la` - what's in my directory?
+   - `ls /` - what's my machine
+   - `ls /etc` - what else we can find?
+  
   - 2to3 -w exploit.py if you have python3
 
 ### Intro to OSS Index
