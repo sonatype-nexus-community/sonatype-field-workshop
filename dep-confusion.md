@@ -1,6 +1,6 @@
 # Attack #1 - Namespace Confusion 
 (Dependency Confusiuon)
-![Dependency Confusion](./images/dep_confusion.png =100x20)
+![Dependency Confusion](./images/dep_confusion.png | width=100)
 
 ## Exercises
 - Configure our Repo to demonstrate the attack
