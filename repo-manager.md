@@ -4,7 +4,7 @@ Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-mave
 
 Configure NPM group adn client - https://help.sonatype.com/repomanager3/formats/npm-registry
 
-Docker Installation:
+Docker Installation (Optional):
 
 ```
 Install: https://docs.docker.com/desktop/
