@@ -1,9 +1,25 @@
-## Nexus Repository Manager
+# Nexus Repository Manager
 
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
 
-# Installation Gotchyas
-- If port 8081 already in use.  Start nexus `./bin/nexus run`
+### Installation Gotchyas
+Common problems and helpful tips
+
+- If following the maven quickstart guide, delete the maven proxy and build manually.
+
+
+- If port 8081 already in use:
+  - Start nexus `./bin/nexus run`
+  - cd `sonatype-work/nexus3/etc`
+  - edit `nexus.properties`
+  - uncomment application port, specify the one you want to use, and save.
+
+
+- Finding the .m2 directory
+  - Mac: `cd ~/.m2`
+  - PC: `mvn -version`
+
+
 
 ### Requirements
 
