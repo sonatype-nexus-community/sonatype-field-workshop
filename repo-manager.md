@@ -2,6 +2,9 @@
 
 Quick Start - https://guides.sonatype.com/repo3/quick-start-guides/proxying-maven-and-npm/
 
+# Installation Gotchyas
+- If port 8081 already in use.  Start nexus `./bin/nexus run`
+
 ### Requirements
 
 Before you can set up the proxy server for Maven and npm, you’ll need to install and configure the following external tools for the repository manager:
