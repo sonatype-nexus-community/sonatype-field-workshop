@@ -8,8 +8,8 @@ Your developer supply chain is constantly under attack, from the download of vul
 
 **The labs covered in this workshop are available at the following links:**
 
-* Lab 1 - [Software Supply Chains](./supply-chain-basics.md)
-* Lab 2 - [Nexus Repository Manager](./repo-manager.md)
-* Lab 3 - [Attack #1 - Dependency Confusion](./dep-confusion.md)
-* Lab 4 - [Attack #2 - Removal of Upstream Source](./upstream-removal.md)
-* Lab 3 - [Attack #3 - Known Vulnerabilities](./known-vulns.md)
+* Overview - [Software Supply Chains](./supply-chain-basics.md)
+* Lab 1 - [Nexus Repository Manager](./repo-manager.md)
+* Lab 2 - [Attack #1 - Dependency Confusion](./dep-confusion.md)
+* Lab 3 - [Attack #2 - Removal of Upstream Source](./upstream-removal.md)
+* Lab 4 - [Attack #3 - Known Vulnerabilities](./known-vulns.md)
