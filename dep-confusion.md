@@ -2,6 +2,8 @@
 (Dependency Confusiuon)
 ![Dependency Confusion](images/dep_confusion.png | width=100)
 
+<img src="https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/images/dep_confusion.png" width="50">
+
 ## Exercises
 - Configure our Repo to demonstrate the attack
 - [Routing Rules](https://help.sonatype.com/repomanager3/repository-management/routing-rules)
