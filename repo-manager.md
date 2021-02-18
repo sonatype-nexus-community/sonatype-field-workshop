@@ -53,6 +53,10 @@ Before you can set up the proxy server for Maven and npm, you’ll need to insta
 - [npm](https://www.npmjs.com/get-npm){:target="_blank"} - A popular format supported by the repository manager. Unlike Maven, Nexus Repository Manager 3 doesn’t currently ship with a default npm repository configuration. These components are configured with an .npmrc file.
 
 
+.
 
+.
+
+.
 
 Continue to Lab 1 by clicking [here](https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/dep-confusion.md).
