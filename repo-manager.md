@@ -21,7 +21,7 @@ $ docker run -d -p 8081:8081 --name nexus -v nexus-data:/nexus-data sonatype/nex
 Common problems and helpful tips
 
 
-- If following the maven quickstart guide, delete the maven proxy and build manually
+- If you are following the maven quickstart guide, delete the maven proxy and build manually if it already exists on install.
 
 
 
