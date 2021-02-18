@@ -39,3 +39,8 @@
 - https://www.businessinsider.com/supply-chain-hacker-alex-birsan-apple-microsoft-neftlix-2021-2
 - https://thestack.technology/security-researcher-hacks-apple-google-microsoft/
 - https://informationsecuritybuzz.com/expert-comments/microsoft-uber-and-tesla-amongst-tech-companies-vulnerable-to-new-automated-supply-chain-attack-expert-insight/
+
+
+
+<br>
+...Continue to Lab 2 by clicking: https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/upstream-removal.md
