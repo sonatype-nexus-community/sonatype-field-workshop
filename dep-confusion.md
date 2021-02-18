@@ -43,4 +43,4 @@
 
 
 <br>
-...Continue to Lab 2 by clicking: https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/upstream-removal.md
+...Continue to Lab 3 by clicking: https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/upstream-removal.md
