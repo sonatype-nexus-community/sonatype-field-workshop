@@ -55,4 +55,4 @@ Before you can set up the proxy server for Maven and npm, you’ll need to insta
 
 
 <br>
-...Continue to Lab 2 by clicking [here](https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/dep-confusion.md){:target="_blank"}
+...Continue to Lab 2 by clicking [here](https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/dep-confusion.md)
