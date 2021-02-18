@@ -31,3 +31,6 @@
 ### Sonatype Open Source Developer Tools
 - [Visual Studio Code Extension](https://ossindex.sonatype.org/integration/vscode)
 - [AHAB](https://ossindex.sonatype.org/integration/ahab)
+
+### Sonatype Lift
+- [Sonatype Lift for Azure DevOps](https://marketplace.visualstudio.com/items?itemName=SonatypeIntegrations.sonatype-lift-azure-extension)
