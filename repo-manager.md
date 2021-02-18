@@ -21,7 +21,7 @@ $ docker run -d -p 8081:8081 --name nexus -v nexus-data:/nexus-data sonatype/nex
 Common problems and helpful tips
 
 
-- If following the maven quickstart guide, delete the maven proxy and build manually.
+- If following the maven quickstart guide, delete the maven proxy and build manually
 
 
 
@@ -30,13 +30,14 @@ Common problems and helpful tips
 ![Repo Port Error](images/repo_port.png)
   - cd `sonatype-work/nexus3/etc`
   - edit `nexus.properties`
-  - uncomment application port, specify the one you want to use, and save.
+  - uncomment application port, specify the one you want to use, and save
 
 
 
 - Finding the .m2 directory:
   - Mac: `cd ~/.m2`
-  - PC: `mvn -version`
+  - PC: `mvn -version` will show you the path
+  - You may have to create the `settings.xml` file yourself if none is found
 
 
 
