@@ -9,4 +9,8 @@ This week JFrog - out of nowhere - announced to completely remove their Maven re
 ## 1. Set up a proxy repository to cache your components
 - https://jcenter.bintray.com/
 ## 2. Test Availability & Raise Migration tickets
-## 3. Finalise migration
+## 3. Finalize migration
+
+
+<br>
+...Continue to Lab 4 by clicking: https://github.com/sonatype-nexus-community/sonatype-field-workshop/blob/main/known-vulns.md
